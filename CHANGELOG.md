@@ -1,3 +1,8 @@
+## 0.1.2
+
+- Slimmed down the npm package.
+- Updated dependencies.
+
 ## 0.1.1
 
 - Made the app suitable for distribution via npm.

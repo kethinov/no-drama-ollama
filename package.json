@@ -8,7 +8,7 @@
       "url": "https://github.com/rooseveltframework/no-drama-ollama/graphs/contributors"
     }
   ],
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/rooseveltframework/no-drama-ollama",
   "license": "CC-BY-4.0",
   "main": "no-drama-ollama.js",
@@ -19,7 +19,7 @@
     "check-if-css-is-disabled": "2.0.2",
     "ollama": "0.6.3",
     "roosevelt": "0.31.6",
-    "sass": "1.94.2",
+    "sass": "1.95.0",
     "semantic-forms": "5.3.2",
     "showdown": "2.1.0",
     "teddy": "1.1.4",

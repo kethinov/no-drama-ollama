@@ -3,4 +3,9 @@
 .github/*
 CHANGELOG.md
 CONTRIBUTING.md
+node_modules
+public
 renovate.json
+sessions*
+secrets
+test
